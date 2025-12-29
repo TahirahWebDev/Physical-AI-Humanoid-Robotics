@@ -1,8 +1,8 @@
 
 # Tasks: Textbook Generation
 
-**Branch**: `001-textbook-gen` | **Date**: 2025-12-06 | **Plan**: /home/yusraa/AI-Humanaid-Robotic/specs/001-textbook-gen/plan.md
-**Input**: Implementation plan from `/home/yusraa/AI-Humanaid-Robotic/specs/001-textbook-gen/plan.md`
+**Branch**: `001-textbook-gen` | **Date**: 2025-12-06 | **Plan**: /home/AI-Humanaid-Robotic/specs/001-textbook-gen/plan.md
+**Input**: Implementation plan from `/home/AI-Humanaid-Robotic/specs/001-textbook-gen/plan.md`
 
 ## Phase 1: Setup
 
