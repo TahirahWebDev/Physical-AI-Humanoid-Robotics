@@ -11,12 +11,12 @@ user: user
 command: /sp.tasks textbook-generation
 labels: ["tasks", "planning", "textbook-generation"]
 links:
-  spec: /home/yusraa/AI-Humanaid-Robotic/specs/001-textbook-gen/spec.md
+  spec: /home/AI-Humanaid-Robotic/specs/001-textbook-gen/spec.md
   ticket: null
   adr: null
   pr: null
 files:
-- /home/yusraa/AI-Humanaid-Robotic/specs/001-textbook-gen/tasks.md
+- /home/AI-Humanaid-Robotic/specs/001-textbook-gen/tasks.md
 tests:
 null
 ---
@@ -35,7 +35,7 @@ Generated `tasks.md` with 41 detailed tasks, organized into Setup, Foundational,
 
 - ✅ Impact: Successfully generated `tasks.md` with detailed, prioritized, and formatted tasks based on spec and plan.
 - 🧪 Tests: No tests were run or added in this task generation phase.
-- 📁 Files: Created `/home/yusraa/AI-Humanaid-Robotic/specs/001-textbook-gen/tasks.md`.
+- 📁 Files: Created `/home/AI-Humanaid-Robotic/specs/001-textbook-gen/tasks.md`.
 - 🔁 Next prompts: User will proceed with implementing tasks from `tasks.md` or ask for clarifications.
 - 🧠 Reflection: The response directly addresses the user's request for task generation and provides a clear, executable task list. Addressed previous script execution error by using agent-native file operations.
 
