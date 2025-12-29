@@ -1,7 +1,7 @@
 # Implementation Plan: Textbook Generation
 
 **Branch**: `001-textbook-gen` | **Date**: 2025-12-06 | **Spec**: /specs/001-textbook-gen/spec.md
-**Input**: Feature specification from `/home/yusraa/AI-Humanaid-Robotic/specs/001-textbook-gen/spec.md`
+**Input**: Feature specification from `/home/AI-Humanaid-Robotic/specs/001-textbook-gen/spec.md`
 
 **Note**: This template is filled in by the `/sp.plan` command. See `.specify/templates/commands/plan.md` for the execution workflow.
 
