@@ -28,7 +28,7 @@ tests:
 
 ## Response snapshot
 
-Plan mode successfully exited. The plan has been approved and saved to `/home/yusraa/.claude/plans/stateful-wondering-treasure.md` (temporary file, now deleted). The main plan is at `specs/1-textbook-generation/plan.md`.
+Plan mode successfully exited. The plan has been approved and saved to `/home/.claude/plans/stateful-wondering-treasure.md` (temporary file, now deleted). The main plan is at `specs/1-textbook-generation/plan.md`.
 
 ## Outcome
 
