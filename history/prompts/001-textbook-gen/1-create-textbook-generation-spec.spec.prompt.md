@@ -11,13 +11,13 @@ user: null
 command: /sp.specify textbook-generation
 labels: ["specification", "feature-creation"]
 links:
-  spec: /home/yusraa/AI-Humanaid-Robotic/specs/001-textbook-gen/spec.md
+  spec: /home/AI-Humanaid-Robotic/specs/001-textbook-gen/spec.md
   ticket: null
   adr: null
   pr: null
 files:
-  - /home/yusraa/AI-Humanaid-Robotic/specs/001-textbook-gen/spec.md
-  - /home/yusraa/AI-Humanaid-Robotic/specs/001-textbook-gen/checklists/requirements.md
+  - /home/AI-Humanaid-Robotic/specs/001-textbook-gen/spec.md
+  - /home/AI-Humanaid-Robotic/specs/001-textbook-gen/checklists/requirements.md
 tests:
 
 ---
@@ -28,7 +28,7 @@ textbook-generation
 
 ## Response snapshot
 
-Successfully created feature specification for 'Textbook Generation' on branch `001-textbook-gen`. The spec file is located at `/home/yusraa/AI-Humanaid-Robotic/specs/001-textbook-gen/spec.md`. All specification quality checklist items are complete. The feature is ready for the planning phase.
+Successfully created feature specification for 'Textbook Generation' on branch `001-textbook-gen`. The spec file is located at `/home/AI-Humanaid-Robotic/specs/001-textbook-gen/spec.md`. All specification quality checklist items are complete. The feature is ready for the planning phase.
 
 ## Outcome
 
